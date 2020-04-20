@@ -1,0 +1,55 @@
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe.config
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.dll
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.pdb
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.xml
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csprojResolveAssemblyReference.cache
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\test\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csprojResolveAssemblyReference.cache
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe.config
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.dll
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.pdb
+C:\test - Copy\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.xml
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe.config
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.dll
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.pdb
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll.config
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.xml
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csprojAssemblyReference.cache
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csproj.CoreCompileInputs.cache
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csproj.CopyComplete
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\Users\polevoy-aa\Documents\LEXX\Work\LI\Кандидаты\Задачи\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe.config
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.Tests.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Unity.Abstractions.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Unity.Container.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Sbt.Test.Refactoring.dll.config
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\bin\Debug\Unity.Container.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csprojAssemblyReference.cache
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.csproj.CopyComplete
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.exe
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring.Tests\obj\Debug\Sbt.Test.Refactoring.Tests.pdb

@@ -1,0 +1,14 @@
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Sbt.Test.Refactoring.dll.config
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Sbt.Test.Refactoring.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Sbt.Test.Refactoring.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Unity.Abstractions.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Unity.Container.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\bin\Debug\Unity.Container.pdb
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\obj\Debug\Sbt.Test.Refactoring.csprojAssemblyReference.cache
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\obj\Debug\Sbt.Test.Refactoring.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\obj\Debug\Sbt.Test.Refactoring.csproj.CopyComplete
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\obj\Debug\Sbt.Test.Refactoring.dll
+C:\Users\Александр\Downloads\трактор\Sbt.Test.Refactoring\Sbt.Test.Refactoring\obj\Debug\Sbt.Test.Refactoring.pdb
